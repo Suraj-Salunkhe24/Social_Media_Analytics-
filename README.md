@@ -447,7 +447,7 @@ This project is created for the Social Booster Media demo task.
 
 ---
 
-**Created by**: [Your Name]
+**Created by**: Suraj Salunkhe
 **Date**: January 2026
 **Company**: Social Booster Media
 **Position**: Full Stack Developer Role
